@@ -44,6 +44,7 @@
 #
 
 **Get me on:** <br>
-|--[![](https://img.shields.io/badge/LinkedIn-pramodmaurya9621-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/pramodmaurya9621/) --|--
-[![](https://img.shields.io/badge/Gmail-pramod.maurya12321%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:pramod.maurya12321@gmail.com) --|---
-[![](https://img.shields.io/badge/Telegram-PramodMaurya9621-blue?logo=Telegram&labelColor=black)](https://t.me/PramodMaurya9621) --| <br>
+| [![](https://img.shields.io/badge/LinkedIn-pramodmaurya9621-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/pramodmaurya9621/) |
+[![](https://img.shields.io/badge/Gmail-pramod.maurya12321%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:pramod.maurya12321@gmail.com) |
+[![](https://img.shields.io/badge/Telegram-PramodMaurya9621-blue?logo=Telegram&labelColor=black)](https://t.me/PramodMaurya9621) |
+|--------------------------------------------|-------------------------------------------------|------------------------------------------|
